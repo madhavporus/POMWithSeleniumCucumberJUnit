@@ -1,0 +1,5 @@
+com/orangehrmlive/Locators/HomePageLocators.class
+com/orangehrmlive/Utils/HelperClass.class
+com/orangehrmlive/Actions/LoginPageActions.class
+com/orangehrmlive/Locators/LoginPageLocators.class
+com/orangehrmlive/Actions/HomePageActions.class

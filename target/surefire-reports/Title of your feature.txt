@@ -1,0 +1,11 @@
+-------------------------------------------------------------------------------
+Test set: Title of your feature
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 41.29 s <<< FAILURE! -- in Title of your feature
+Title of your feature.Verify login with valid credentials -- Time elapsed: 13.64 s <<< FAILURE!
+org.junit.ComparisonFailure: expected:<[Alex Popoescu]> but was:<[Paul Collings]>
+	at org.junit.Assert.assertEquals(Assert.java:117)
+	at org.junit.Assert.assertEquals(Assert.java:146)
+	at com.orangehrmlive.stepdefinitions.LoginPageStepDefinitions.user_must_be_able_to_land_on_home_page(LoginPageStepDefinitions.java:50)
+	at ✽.user must be able to land on home page(file:///Users/admin/eclipse-workspace/POMRepeat/src/test/resources/LoginPageR.feature:12)
+
